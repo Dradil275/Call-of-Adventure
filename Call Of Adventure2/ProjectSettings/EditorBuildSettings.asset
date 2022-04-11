@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: e8461eae07346cc4cae6001b96165804
+  - enabled: 1
+    path: Assets/Scenes/SideScrolling 0.unity
+    guid: abe69e74284a14d1eb63951d162b5d6d
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: a120da28fd5cc214e9a73348cf235189
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/GameOver2.unity
+    guid: 37d3922032e899745a73af6f2764e22a
+  - enabled: 1
+    path: Assets/Scenes/Victory.unity
+    guid: 0b2bdc84bd67b0647ae7c41a9a185ea8
+  - enabled: 1
+    path: Assets/Scenes/Controls.unity
+    guid: c76d0ae20d052fc4b9ffa1f9049195a7
+  m_configObjects: {}
